@@ -1,1 +1,1 @@
-Sitemap: https://blog.guilloutran.com/blog/sitemap.xml
+Sitemap: https://blog.guilloutran.com/sitemap.xml
