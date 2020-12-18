@@ -322,7 +322,7 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (min-width: 1200px) { .one-half { width: calc(50% - (30px / 2)); } }
 
 /*-----------------------------------*/
-/*--- IMPORT STYLES FOR FASTPAGES ---*/
+/*--- IMPORT STYLES FOR BLOG ---*/
 .post img { display: block; vertical-align: top; margin-left: auto; margin-right: auto; }
 
 img.emoji { display: inline !important; vertical-align: baseline !important; }
